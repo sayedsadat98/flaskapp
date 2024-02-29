@@ -1,0 +1,1 @@
+web: gunicorn gpt308.wsgi --log-file -
